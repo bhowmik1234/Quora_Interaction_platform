@@ -11,4 +11,12 @@ Praveen Kumar
 # To run this file
 check file: mainCppFile.cpp
 
-- The file
+$ The file is a dependent file; which include:
+- AddingPost.h
+- UserProfile.h
+- allUsers.h
+- feeds.h
+- hands.h
+- loginregister.h
+- recommendataion.h
+
