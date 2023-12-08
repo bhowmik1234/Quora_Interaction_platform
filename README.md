@@ -20,3 +20,10 @@ $ The file is a dependent file; which include:
 - loginregister.h
 - recommendataion.h
 
+# This project also uses various data structure
+- C++ STL
+- Graphs
+- Hashing
+- Maps
+  
+
