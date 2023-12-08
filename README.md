@@ -3,10 +3,10 @@ Our project is based on the Quora, as we can ask question, provide solution and 
 provide solution to problems of other people’s questions, review feeds and update our profile.
 
 # Contribution to this projects:
-Nishant Tiwari
-Bhowmik Chawda
-Biswajit Kumar Dandapat
-Praveen Kumar
+- Nishant Tiwari
+- Bhowmik Chawda
+- Biswajit Kumar Dandapat
+- Praveen Kumar
 
 # To run this file
 check file: mainCppFile.cpp
